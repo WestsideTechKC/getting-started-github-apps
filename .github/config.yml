@@ -16,7 +16,7 @@ requestInfoReplyComment: >
 # MUST BE ALL LOWERCASE
 requestInfoDefaultTitles:
   - update readme.md
-  - updates
+  - update request-info.config.yml
 
 # *OPTIONAL* Label to be added to Issues and Pull Requests with insufficient information given
 requestInfoLabelToAdd: needs-more-info
